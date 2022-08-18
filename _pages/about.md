@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Email: allenshiyuwu at gmail dot com</p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/shiyuwu-96/" target="_blank">Click here</a></p>
-    <p>Resume: <a href="https://allen-wu.github.io/shiyuwu/assets/pdfs/Shiyu_Wu_Resume.pdf" target="_blank">Click here</a></p>
+    <p>Resume: <a href="assets/pdf/Shiyu_Wu_Resume.pdf" target="_blank">Click here</a></p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
