@@ -19,4 +19,6 @@ Developed the algorithm on Arduino to control sensors and step motor for paper t
 
 ### Concept Diagram
 
+![image](./../../assets/img/paper_man.jpg){:height="500px" width="750px"}
+
 <hr>

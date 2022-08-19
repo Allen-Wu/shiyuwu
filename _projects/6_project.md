@@ -14,6 +14,6 @@ category: fun
 ### Goal
 Teach the agent to master Tennis through prior knowledge of Pong. 
 
-Check out our project report, plus the code repo.
+Check out our [project report](./../../assets/pdf/CS394R_Report.pdf), plus the code repo.
 
 <hr>
