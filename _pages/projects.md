@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: These are mostly for memory purpose. I thought it would be great to leave some space for the cool stuff I have done in the past.
+description: These are mostly for memory purpose. :) I thought it would be great to leave some space for the cool stuff I have done in the past.
 nav: true
 nav_order: 1
 display_categories: [work, fun]

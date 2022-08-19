@@ -11,6 +11,8 @@ nav_order: 2
 
 ## Teaching
 
+I am pretty passionate about knowledge sharing, and believe this is the best way to educate myself as well!
+
 * Graduate TA @ UT Austin:
     - CS388G Algorithms: Techniques & Theory - 2021 Spring
         - Oversaw the graduate-level algorithm course with topics in algorithm design and analysis. Topics include amortized analysis, fibonacci heap, NP, and etc.
@@ -32,5 +34,21 @@ nav_order: 2
 * High School Tutor @ Modi Education - 2016.10 - 2017.8
     - Part time job as an tutor for high school's maths and physics courses.
     - Duty: 8-hours' weekly lectures. Design specific homework.
+
+<hr>
+
+## Honors / Awards
+
+* National Scholarship - 2016.9
+
+* King, Roger Scholarship - 2018.8 / 2019.1
+
+* SJTU Outstanding Graduate - 2019.7
+
+* EECS Scholar - 2018.3 / 2019.3
+
+* Jun Yuan Scholarship - 2014.9 / 2016.11
+
+* UM-SJTU JI Distinguished Academic Achievement Award - 2016.10
 
 <hr>

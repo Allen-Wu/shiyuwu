@@ -3,7 +3,7 @@ layout: post
 desc: Guitar beginner, fan of Rock, Jazz, Contemporary Art. I find myself heavily influenced by Minimalism. Check out
 title: My favorite music genres
 interest: Music
-date: 1996-11-01 10:59:00-0400
+date: 2022-08-17 10:59:00-0400
 inline: false
 ---
 
