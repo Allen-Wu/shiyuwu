@@ -9,6 +9,8 @@ category: work
 
 <hr>
 
+2018.6 - 2018.9
+
 ### Paper
 Kevin French, Shiyu Wu, Tianyang Pan, Zheming Zhou, Odest Chadwicke Jenkins, "Learning Behavior Trees from Demonstration" IEEE International Conference on Robotics and Automation (ICRA) 2019
 
