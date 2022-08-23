@@ -2,7 +2,7 @@
 layout: page
 title: Learning Behavior Trees from Demonstration
 # description: a project with a background image
-img: assets/img/publication_preview/lfd_teaser.pdf
+img: assets/img/publication_preview/lfd_teaser.jpg
 importance: 1
 category: work
 ---
