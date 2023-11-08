@@ -18,17 +18,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-* Greetings! :P This is `Shiyu Wu`, currently a software engineer at `Amazon Web Services` in Seattle area. My birth name in Chinese is `吴矢瑀`, meaning perseverance and jade.
+* Welcome! :P This is `Shiyu Wu`, currently a software engineer at `Amazon Web Services` in Seattle area. My birth name in Chinese is `吴矢瑀`.
 
-* I work in `EC2 Networking` org, trying to solve questions like: how to make EC2 customer's access to AWS resources safer, faster, more reliable?
+* I work in `EC2 Networking` org, a complex area bridging physical network and EC2 Virtual Private Cloud. We try to answer questions like: how to make EC2 customer's access to AWS resources faster, cheaper, more secure and reliable?
 
 * I was born and raised in the suburb of `Shanghai`, speaking `Mandarin` and `Wu Chinese`.
 
 * My life journey so far: `Shanghai` -> `Ann Arbor` -> `Austin` -> `Seattle` -> `?`.
 
-* I am interested in `data-intensive systems`, `database`, `distributed systems` including `blockchain`, and related stuff.
+* I am interested in `data-intensive systems`, `database`, `distributed systems` including `blockchain`, just to name a few. : )
 
-* Other areas actively drawing my interests: `machine learning`, `finance`, `psychology`.
+* Other areas actively drawing my interests: `machine learning`, `finance`, `contemporary art`.
 
 <!-- I spent my college time at `University of Texas at Austin`, `University of Michigan - Ann Arbor`, and `Shanghai Jiao Tong University`. -->
 
