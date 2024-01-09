@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Email: allenshiyuwu at gmail dot com</p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/shiyuwu-96/" target="_blank">Click here</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/allenshiyuwu/" target="_blank">Click here</a></p>
     <p>Resume: <a href="assets/pdf/Shiyu_Wu_Resume.pdf" target="_blank">Click here</a></p>
 
 news: true  # includes a list of news items
