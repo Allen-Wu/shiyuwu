@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: This site is mostly maintained as self-introduction, memory keeping, and knowledge sharing purpose.
+subtitle: This site is mostly maintained for self-introduction, memory keeping, and knowledge sharing purpose.
 
 profile:
   align: right
@@ -20,13 +20,13 @@ social: false  # includes social icons at the bottom of the page
 
 * Welcome! :P This is `Shiyu Wu`, currently a software engineer at `Amazon Web Services` in Seattle area. My birth name in Chinese is `吴矢瑀`.
 
-* I work in `EC2 Networking` org, a complex area bridging physical network and EC2 Virtual Private Cloud. We try to answer questions like: how to make EC2 customer's access to AWS resources faster, cheaper, more secure and reliable?
+* I work in `EC2 Networking` org, a complex area bridging physical network and EC2 Virtual Private Cloud. Day to day, we've been looking at problems including: how to make EC2 customer's access to AWS resources faster, cheaper, more secure and reliable?
 
 * I was born and raised in the suburb of `Shanghai`, speaking `Mandarin` and `Wu Chinese`.
 
 * My life journey so far: `Shanghai` -> `Ann Arbor` -> `Austin` -> `Seattle` -> `?`.
 
-* I am interested in `data-intensive systems`, `database`, `distributed systems` including `blockchain`, just to name a few. : )
+* I am interested in `data-intensive systems`, `database`, `distributed systems` including `blockchain`, just to name a few. :-)
 
 * Other areas actively drawing my interests: `machine learning`, `finance`, `contemporary art`.
 
